@@ -1,0 +1,73 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: 'Times New Roman', Times, serif;
+}
+nav{
+  background-color: black;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+ 
+}
+.container ul li a{
+color: white;
+}
+.back{
+  position: absolute;
+  width: 100%;
+  z-index: -1;
+}
+.contents {
+margin-left: 15%;
+}
+.contents h1{
+  color: rgb(224, 224, 224);
+}
+.contents h3{
+  color: rgb(168, 198, 198);
+}
+.about{
+  background-color: rgb(173, 176, 85);
+  
+}
+
+.about p{
+text-indent: 100px;
+}
+.about img{
+  margin-left: 40%;
+}
+.about ul li{
+  margin-left: 35%;
+}
+.about h2{
+  font-size: 45px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+color: brown;
+}
+.portfolio{
+  background-color: rgb(173, 176, 85);
+}
+.portfolio h2{
+  font-size: 45px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+  color: brown;
+}
+.card h5{
+  text-align: center;
+}
+.card button{
+  margin-left: 42%;
+}
+.card{
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+
+}
